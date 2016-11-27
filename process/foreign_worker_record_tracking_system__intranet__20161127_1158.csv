@@ -1,0 +1,44 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Other ID,Integration,Owned By,Owned By
+3168401,"As a director, I would like to manage the admin account.",account,,,,epic,,,"Nov 24, 2016",,,,,https://www.pivotaltracker.com/epic/show/3168401,,,,
+134566025,As a user i would like to have a Log-In page ,"",1,"Nov 14, 2016","Nov 27, 2016",feature,2,finished,"Nov 17, 2016",,,Chin Jen Wei,"- Log-in information should be secure
+- Prompt error message when invalid input
+- Prompt message when Success Log-In 
+- Easy to use log-in page
+- Button to Sign-In 
+- Show Current Date on Log-in Page 
+- Simple Design for the Log-in Page",https://www.pivotaltracker.com/story/show/134566025,,,Chong Wai Kit,
+134566239,"As an admin, i can add new foreign worker details","",1,"Nov 14, 2016","Nov 27, 2016",feature,2,started,"Nov 17, 2016",,,Lee Chun Han,"Registration includes the following main data:
+1. Name
+2. Passport Number
+3. Nationality 
+4. Received date",https://www.pivotaltracker.com/story/show/134566239,,,Chong Wai Kit,Lee Chun Han
+134634471,"As a director, I want to see my company details on the home page","",1,"Nov 14, 2016","Nov 27, 2016",feature,1,started,"Nov 19, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134634471,,,Chong Wai Kit,
+134566841,"As a director, I would like to add new admin.",account,1,"Nov 14, 2016","Nov 27, 2016",feature,2,started,"Nov 17, 2016",,,Shi Hang Ng,"- only director able to add new employee
+- able to view the employee detail 
+    The employee detail :
+1) Employee ID
+2) Employee Name
+3) Contact Number
+4) Age
+5)Position
+6)Status",https://www.pivotaltracker.com/story/show/134566841,,,Chong Wai Kit,
+134567033,I would like to register new PLKS company through the system,"",1,"Nov 14, 2016","Nov 27, 2016",feature,1,started,"Nov 17, 2016",,,Kenneth,,https://www.pivotaltracker.com/story/show/134567033,,,Chong Wai Kit,
+134919457,Customer review for account management and calling VISA,"",1,"Nov 14, 2016","Nov 27, 2016",release,,unstarted,"Nov 24, 2016",,"Nov 25, 2016",Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134919457,,,,
+134910847,Admin see duplicate record in record preview after record entry,"",,,,bug,,unscheduled,"Nov 24, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134910847,,,,
+134567041,"As a director, I want to assign each admin to their respective PLKS company","",,,,feature,1,unscheduled,"Nov 17, 2016",,,Chong Wai Kit,-only available admin can be pre-assigned,https://www.pivotaltracker.com/story/show/134567041,,,Chong Wai Kit,
+134634437,"As an admin, I want to filter the workers by PLKS company","",,,,feature,,unscheduled,"Nov 19, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134634437,,,,
+134634663,"As an admin, I want to have calendar while update the expired date, so that my work can be easier","",,,,feature,,unscheduled,"Nov 19, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134634663,,,,
+134634419,"As a user, I want my account to be automatically logout after 15 minutes of inactive","",,,,chore,,unscheduled,"Nov 19, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134634419,,,,
+134567425,"As an admin, I can print out the attachment files","",,,,feature,1,unscheduled,"Nov 17, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134567425,,,,
+134567411,"As an admin, I can download or save the attachment files","",,,,feature,1,unscheduled,"Nov 17, 2016",,,Chong Wai Kit,,https://www.pivotaltracker.com/story/show/134567411,,,,
+134567341,"As an admin, I can upload worker's particular, so that I can preview back in future","",,,,feature,3,unscheduled,"Nov 17, 2016",,,Chong Wai Kit,"-only can upload after the worker has been added into the system
+-attachment files are saved according to worker's passport number
+-particular include (passport photo,passport,special pass,PLKS,and insurans policy)
+-jpg format (passport photo,passport,special pass,and PLKS)
+-pdf format (passport,special pass,PLKS, insurans policy)
+-passport and special pass can contain multiple files
+-passport,special pass,PLKS, and insurans policy must have old and new version for preview",https://www.pivotaltracker.com/story/show/134567341,,,,
+134566929,"As an admin, I want to get expired date reminder based on remaining days","",,,,feature,2,unscheduled,"Nov 17, 2016",,,Chong Wai Kit,"-when the expired date is less than 90 days, the reminder must be in green color
+-when the expired date is less than 60 days, the reminder must be in yellow color
+-when the expired date is less than 30 days, the reminder must be in orange color
+-when the expired date is less than 0 day, the reminder must be in red color",https://www.pivotaltracker.com/story/show/134566929,,,Chong Wai Kit,
